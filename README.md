@@ -5,6 +5,12 @@
 - I’m mostly self taught but have completed multiple online professional certificates 👨‍🎓
 - I have mostly been focused on learning all about frontend development, but I am keen to gain knowledge and experience on the full stack ✅
 - You can reach me @ pwhelanstudio@gmail.com 📩
+<br>
+<br>
+
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PWhelan3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
 ## Tech Stack
 
@@ -33,7 +39,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PWhelan3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
