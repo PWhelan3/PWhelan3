@@ -3,7 +3,7 @@
 - I have a huge interest in software and digital design 💽
 - I’m currently learning all about software development and looking to start a career in Tech 🧑‍💻
 - I’m mostly self taught but have completed multiple online professional certificates 👨‍🎓
-- I have mostly been focused on learning all about frontend development, but I am keen to gain knowledge and experience on full stack technologies✅
+- I have mostly been focused on learning all about frontend development, but I am keen to gain knowledge and experience on full stack technologies ✅
 - You can reach me @ pwhelanstudio@gmail.com 📩
 <br>
 <br>
